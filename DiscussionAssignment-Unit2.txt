@@ -1,0 +1,39 @@
+While Loop:
+
+public class DiscussionAssignment {
+public static void main(String[] args) {
+int i = 0;
+while (i < 6) {
+System.out.println(i);
+i++;
+}
+}
+}
+
+
+Do-while loop:
+
+public class DiscussionAssignment{
+public static void main(String[] args) {
+int i = 0;
+do {
+System.out.println(i);
+i++;
+}
+while (i < 6);
+}
+}
+
+For Loop:
+public class DiscussionAssignment {
+public static void main(String[] args) {
+for (int i = 0; i < 6; i++) {
+System.out.println(i);
+}
+}
+}
+
+A "While" Loop is used to repeat a specific block of code an unknown number of times, until a condition is met while a “do while” loop is a control flow statement that executes a block of code at least once, and then repeatedly executes the block, or not, depending on a given Boolean condition at the end of the block.
+
+A for-loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly.
+145 words
