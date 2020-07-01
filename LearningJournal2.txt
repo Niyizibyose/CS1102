@@ -1,0 +1,14 @@
+This week was amazing. As a new comer in programming life I have to work hard master the principles variables, functions, classes and others.
+
+I read the textbook and I made an intensive research on W3School to have a solid understanding of programming.
+
+I got an encouraging feedback from my peers which gives me more energy to keep moving.
+
+I was surprised by the way computer iterates programs and responds to codes in a very short time. I also wonder what programming language are programming languages made in.
+
+This week has shown me that programming requires higher discipline to keep moving and keep learning as well since technology is not static hence dynamic.
+
+I mastered well for loops and while loops and I am looking forward to gaining more stuffs to have enough package to build my own software hence programming language or an operating system, why not?
+
+Nothing that excites me than writing a code and running it smoothly but the more one is to resolve a bug in your program.
+
